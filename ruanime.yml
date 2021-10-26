@@ -1,0 +1,748 @@
+- word: 'Стальной алхимик: Братство'
+  imageUrl: https://cdn.nadeko.bot/animu/Fullmetal_Alchemist_Brotherhood.jpg
+- word: 'Врата Штейна'
+  imageUrl: https://cdn.nadeko.bot/animu/SteinsGate.jpg
+- word: 'Охотник х Охотник (2011)'
+  imageUrl: https://cdn.nadeko.bot/animu/Hunter_x_Hunter_2011.jpg
+- word: 'Легенда о героях Галактики'
+  imageUrl: https://cdn.nadeko.bot/animu/Ginga_Eiyuu_Densetsu.jpg
+- word: 'Корзинка фруктов: Финал'
+  imageUrl: https://cdn.nadeko.bot/animu/Fruits_Basket_The_Final.jpg
+- word: 'Форма голоса'
+  imageUrl: https://cdn.nadeko.bot/animu/Koe_no_Katachi.jpg
+- word: 'Кланнад: Продолжение истории'
+  imageUrl: https://cdn.nadeko.bot/animu/Clannad_After_Story.jpg
+- word: 'Гинтама'
+  imageUrl: https://cdn.nadeko.bot/animu/Gintama.jpg
+- word: 'Твоё имя'
+  imageUrl: https://cdn.nadeko.bot/animu/Kimi_no_Na_wa..jpg
+- word: 'Код Гиас: Восставший Лелуш 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Code_Geass_Hangyaku_no_Lelouch_R2.jpg
+- word: 'Волейбол!! 3'
+  imageUrl: https://cdn.nadeko.bot/animu/Haikyuu_Karasuno_Koukou_vs._Shiratorizawa_Gakuen_Koukou.jpg
+- word: 'Моб Психо 100 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Mob_Psycho_100_II.jpg
+- word: 'Истории ран. Часть 3: Холодная кровь'
+  imageUrl: https://cdn.nadeko.bot/animu/Kizumonogatari_III_Reiketsu-hen.jpg
+- word: 'Унесённые призраками'
+  imageUrl: https://cdn.nadeko.bot/animu/Sen_to_Chihiro_no_Kamikakushi.jpg
+- word: 'Вайолет Эвергарден. Фильм'
+  imageUrl: https://cdn.nadeko.bot/animu/Violet_Evergarden_Movie.jpg
+- word: 'Цикл историй: Второй сезон'
+  imageUrl: https://cdn.nadeko.bot/animu/Monogatari_Series_Second_Season.jpg
+- word: 'Монстр'
+  imageUrl: https://cdn.nadeko.bot/animu/Monster.jpg
+- word: 'Сёва-Гэнроку: Двойное самоубийство по ракуго 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Shouwa_Genroku_Rakugo_Shinjuu_Sukeroku_Futatabi-hen.jpg
+- word: 'Ковбой Бибоп'
+  imageUrl: https://cdn.nadeko.bot/animu/Cowboy_Bebop.jpg
+- word: 'Магическая битва'
+  imageUrl: https://cdn.nadeko.bot/animu/Jujutsu_Kaisen_TV.jpg
+- word: 'Клинок, рассекающий демонов: Бесконечный поезд'
+  imageUrl: https://cdn.nadeko.bot/animu/Kimetsu_no_Yaiba_Movie_Mugen_Ressha-hen.jpg
+- word: 'Мастер муси: Следующая глава 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Mushishi_Zoku_Shou_2nd_Season.jpg
+- word: 'Первый шаг'
+  imageUrl: https://cdn.nadeko.bot/animu/Hajime_no_Ippo.jpg
+- word: 'Созданный в Бездне'
+  imageUrl: https://cdn.nadeko.bot/animu/Made_in_Abyss.jpg
+- word: 'Созданный в Бездне: Рассвет глубокой души'
+  imageUrl: https://cdn.nadeko.bot/animu/Made_in_Abyss_Movie_3_Fukaki_Tamashii_no_Reimei.jpg
+- word: 'Мастер муси: Следующая глава'
+  imageUrl: https://cdn.nadeko.bot/animu/Mushishi_Zoku_Shou.jpg
+- word: 'Бродяга Кэнсин: Воспоминания'
+  imageUrl: https://cdn.nadeko.bot/animu/Rurouni_Kenshin_Meiji_Kenkaku_Romantan_-_Tsuioku-hen.jpg
+- word: 'Твоя апрельская ложь'
+  imageUrl: https://cdn.nadeko.bot/animu/Shigatsu_wa_Kimi_no_Uso.jpg
+- word: 'Сага о Винланде'
+  imageUrl: https://cdn.nadeko.bot/animu/Vinland_Saga.jpg
+- word: 'Код Гиас: Восставший Лелуш'
+  imageUrl: https://cdn.nadeko.bot/animu/Code_Geass_Hangyaku_no_Lelouch.jpg
+- word: 'Крутой учитель Онидзука'
+  imageUrl: https://cdn.nadeko.bot/animu/Great_Teacher_Onizuka.jpg
+- word: 'Принцесса Мононоке'
+  imageUrl: https://cdn.nadeko.bot/animu/Mononoke_Hime.jpg
+- word: 'Мастер муси'
+  imageUrl: https://cdn.nadeko.bot/animu/Mushishi.jpg
+- word: 'Волейбол!! 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Haikyuu_Second_Season.jpg
+- word: 'Госпожа Кагуя: в любви как на войне 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Kaguya-sama_wa_Kokurasetai_Tensai-tachi_no_Renai_Zunousen.jpg
+- word: 'Первый шаг: Новый вызов'
+  imageUrl: https://cdn.nadeko.bot/animu/Hajime_no_Ippo_New_Challenger.jpg
+- word: 'Ходячий замок'
+  imageUrl: https://cdn.nadeko.bot/animu/Howl_no_Ugoku_Shiro.jpg
+- word: 'Тетрадь дружбы Нацумэ 4'
+  imageUrl: https://cdn.nadeko.bot/animu/Natsume_Yuujinchou_Shi.jpg
+- word: 'Этот глупый свин не понимает мечту девочки-зайки. Фильм'
+  imageUrl: https://cdn.nadeko.bot/animu/Seishun_Buta_Yarou_wa_Yumemiru_Shoujo_no_Yume_wo_Minai.jpg
+- word: 'Гуррен-Лаганн, пронзающий небеса'
+  imageUrl: https://cdn.nadeko.bot/animu/Tengen_Toppa_Gurren_Lagann.jpg
+- word: 'Вайолет Эвергарден'
+  imageUrl: https://cdn.nadeko.bot/animu/Violet_Evergarden.jpg
+- word: 'Тетрадь дружбы Нацумэ 6'
+  imageUrl: https://cdn.nadeko.bot/animu/Natsume_Yuujinchou_Roku.jpg
+- word: 'Исчезновение Харухи Судзумии'
+  imageUrl: https://cdn.nadeko.bot/animu/Suzumiya_Haruhi_no_Shoushitsu.jpg
+- word: 'Тетрадь смерти'
+  imageUrl: https://cdn.nadeko.bot/animu/Death_Note.jpg
+- word: 'Для тебя, Бессмертный'
+  imageUrl: https://cdn.nadeko.bot/animu/Fumetsu_no_Anata_e.jpg
+- word: 'Мастер муси: Следующая глава — Капли колокольчиков'
+  imageUrl: https://cdn.nadeko.bot/animu/Mushishi_Zoku_Shou_Suzu_no_Shizuku.jpg
+- word: 'Волчьи дети Амэ и Юки'
+  imageUrl: https://cdn.nadeko.bot/animu/Ookami_Kodomo_no_Ame_to_Yuki.jpg
+- word: 'Пинг-Понг'
+  imageUrl: https://cdn.nadeko.bot/animu/Ping_Pong_the_Animation.jpg
+- word: 'Обещанный Неверленд'
+  imageUrl: https://cdn.nadeko.bot/animu/Yakusoku_no_Neverland.jpg
+- word: 'Истории ран. Часть 2: Горячая кровь'
+  imageUrl: https://cdn.nadeko.bot/animu/Kizumonogatari_II_Nekketsu-hen.jpg
+- word: 'Сказ о четырёх с половиной татами'
+  imageUrl: https://cdn.nadeko.bot/animu/Yojouhan_Shinwa_Taikei.jpg
+- word: 'Тетрадь дружбы Нацумэ 3'
+  imageUrl: https://cdn.nadeko.bot/animu/Natsume_Yuujinchou_San.jpg
+- word: 'Сёва-Гэнроку: Двойное самоубийство по ракуго'
+  imageUrl: https://cdn.nadeko.bot/animu/Shouwa_Genroku_Rakugo_Shinjuu.jpg
+- word: 'Первый шаг: Восхождение'
+  imageUrl: https://cdn.nadeko.bot/animu/Hajime_no_Ippo_Rising.jpg
+- word: 'Клинок, рассекающий демонов'
+  imageUrl: https://cdn.nadeko.bot/animu/Kimetsu_no_Yaiba.jpg
+- word: 'Я хочу съесть твою поджелудочную'
+  imageUrl: https://cdn.nadeko.bot/animu/Kimi_no_Suizou_wo_Tabetai.jpg
+- word: 'Тетрадь дружбы Нацумэ 5'
+  imageUrl: https://cdn.nadeko.bot/animu/Natsume_Yuujinchou_Go.jpg
+- word: 'Мастер муси: Тень, поглотившая Солнце'
+  imageUrl: https://cdn.nadeko.bot/animu/Mushishi_Hihamukage.jpg
+- word: 'Бакуман 3'
+  imageUrl: https://cdn.nadeko.bot/animu/Bakuman._3rd_Season.jpg
+- word: 'Граница пустоты 5: Спираль парадокса'
+  imageUrl: https://cdn.nadeko.bot/animu/Kara_no_Kyoukai_5_Mujun_Rasen.jpg
+- word: 'Дальше, чем космос'
+  imageUrl: https://cdn.nadeko.bot/animu/Sora_yori_mo_Tooi_Basho.jpg
+- word: 'Тетрадь дружбы Нацумэ 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Zoku_Natsume_Yuujinchou.jpg
+- word: 'Ван-Пис'
+  imageUrl: https://cdn.nadeko.bot/animu/One_Piece.jpg
+- word: 'Лагерь на свежем воздухе 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Yuru_Camp_Season_2.jpg
+- word: 'Корзинка фруктов 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Fruits_Basket_2nd_Season.jpg
+- word: 'Волейбол!! К вершине 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Haikyuu_To_the_Top_2nd_Season.jpg
+- word: 'Призрак в доспехах: Синдром одиночки 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Koukaku_Kidoutai_Stand_Alone_Complex_2nd_GIG.jpg
+- word: 'Ванпанчмен'
+  imageUrl: https://cdn.nadeko.bot/animu/One_Punch_Man.jpg
+- word: 'Евангелион нового поколения: Конец Евангелиона'
+  imageUrl: https://cdn.nadeko.bot/animu/Neon_Genesis_Evangelion_The_End_of_Evangelion.jpg
+- word: 'Класс убийц 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Ansatsu_Kyoushitsu_2nd_Season.jpg
+- word: 'Слэм-данк'
+  imageUrl: https://cdn.nadeko.bot/animu/Slam_Dunk.jpg
+- word: 'Радуга: Семеро из шестой камеры второго блока'
+  imageUrl: https://cdn.nadeko.bot/animu/Rainbow_Nisha_Rokubou_no_Shichinin.jpg
+- word: 'Атака титанов'
+  imageUrl: https://cdn.nadeko.bot/animu/Shingeki_no_Kyojin.jpg
+- word: 'Космические братья'
+  imageUrl: https://cdn.nadeko.bot/animu/Uchuu_Kyoudai.jpg
+- word: 'Ария: Происхождение'
+  imageUrl: https://cdn.nadeko.bot/animu/Aria_the_Origination.jpg
+- word: 'Граффити Холо'
+  imageUrl: https://cdn.nadeko.bot/animu/Holo_no_Graffiti.jpg
+- word: 'Могила светлячков'
+  imageUrl: https://cdn.nadeko.bot/animu/Hotaru_no_Haka.jpg
+- word: 'Банановая рыба'
+  imageUrl: https://cdn.nadeko.bot/animu/Banana_Fish.jpg
+- word: 'Яркая Тихая 3'
+  imageUrl: https://cdn.nadeko.bot/animu/Chihayafuru_3.jpg
+- word: 'Берсерк'
+  imageUrl: https://cdn.nadeko.bot/animu/Kenpuu_Denki_Berserk.jpg
+- word: 'Идеальная грусть'
+  imageUrl: https://cdn.nadeko.bot/animu/Perfect_Blue.jpg
+- word: 'Самурай Чамплу'
+  imageUrl: https://cdn.nadeko.bot/animu/Samurai_Champloo.jpg
+- word: 'Волейбол!!'
+  imageUrl: https://cdn.nadeko.bot/animu/Haikyuu.jpg
+- word: 'Магистр дьявольского культа'
+  imageUrl: https://cdn.nadeko.bot/animu/Mo_Dao_Zu_Shi.jpg
+- word: 'Моб Психо 100'
+  imageUrl: https://cdn.nadeko.bot/animu/Mob_Psycho_100.jpg
+- word: 'История финала: Продолжение'
+  imageUrl: https://cdn.nadeko.bot/animu/Zoku_Owarimonogatari.jpg
+- word: 'Нана'
+  imageUrl: https://cdn.nadeko.bot/animu/Nana.jpg
+- word: 'Мелочи жизни'
+  imageUrl: https://cdn.nadeko.bot/animu/Nichijou.jpg
+- word: 'Как воспитать героиню из обычной девушки: Финал'
+  imageUrl: https://cdn.nadeko.bot/animu/Saenai_Heroine_no_Sodatekata_Fine.jpg
+- word: 'Мастер муси: Следующая глава — Тернистый путь'
+  imageUrl: https://cdn.nadeko.bot/animu/Mushishi_Zoku_Shou_Odoro_no_Michi.jpg
+- word: 'История финала'
+  imageUrl: https://cdn.nadeko.bot/animu/Owarimonogatari.jpg
+- word: 'Ох уж этот экстрасенс Сайки Кусуо! 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Saiki_Kusuo_no_-nan_2.jpg
+- word: 'Отчёт о буйстве духов'
+  imageUrl: https://cdn.nadeko.bot/animu/YuuYuuHakusho.jpg
+- word: 'Золотое божество 3'
+  imageUrl: https://cdn.nadeko.bot/animu/Golden_Kamuy_3rd_Season.jpg
+- word: 'Призрак в доспехах: Синдром одиночки'
+  imageUrl: https://cdn.nadeko.bot/animu/Koukaku_Kidoutai_Stand_Alone_Complex.jpg
+- word: 'Магистр дьявольского культа 3'
+  imageUrl: https://cdn.nadeko.bot/animu/Mo_Dao_Zu_Shi_2nd_Season.jpg
+- word: 'Укрась прощальное утро цветами обещания'
+  imageUrl: https://cdn.nadeko.bot/animu/Sayonara_no_Asa_ni_Yakusoku_no_Hana_wo_Kazarou.jpg
+- word: 'Мононокэ'
+  imageUrl: https://cdn.nadeko.bot/animu/Mononoke.jpg
+- word: 'Ох уж этот экстрасенс Сайки Кусуо!'
+  imageUrl: https://cdn.nadeko.bot/animu/Saiki_Kusuo_no_-nan.jpg
+- word: 'Попался!'
+  imageUrl: https://cdn.nadeko.bot/animu/Gotcha.jpg
+- word: 'Граница пустоты 7: Теория убийства — Часть 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Kara_no_Kyoukai_7_Satsujin_Kousatsu_Go.jpg
+- word: 'Почувствуй ветер'
+  imageUrl: https://cdn.nadeko.bot/animu/Kaze_ga_Tsuyoku_Fuiteiru.jpg
+- word: 'Мартовский лев'
+  imageUrl: https://cdn.nadeko.bot/animu/3-gatsu_no_Lion.jpg
+- word: 'Перекрёстная игра'
+  imageUrl: https://cdn.nadeko.bot/animu/Cross_Game.jpg
+- word: 'Жозе, тигр и рыба'
+  imageUrl: https://cdn.nadeko.bot/animu/Josee_to_Tora_to_Sakana-tachi.jpg
+- word: 'Задержи этот звук! 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Kono_Oto_Tomare_2nd_Season.jpg
+- word: 'Тетрадь дружбы Нацумэ: Эфемерная связь'
+  imageUrl: https://cdn.nadeko.bot/animu/Natsume_Yuujinchou_Movie_Utsusemi_ni_Musubu.jpg
+- word: 'Как и ожидалось, моя школьная романтическая жизнь не удалась 3'
+  imageUrl: https://cdn.nadeko.bot/animu/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru._Kan.jpg
+- word: 'Деревенская глубинка 3'
+  imageUrl: https://cdn.nadeko.bot/animu/Non_Non_Biyori_Nonstop.jpg
+- word: 'Брошенный кролик'
+  imageUrl: https://cdn.nadeko.bot/animu/Usagi_Drop.jpg
+- word: 'Шумиха!'
+  imageUrl: https://cdn.nadeko.bot/animu/Baccano.jpg
+- word: 'Яркая Тихая 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Chihayafuru_2.jpg
+- word: 'Боевой континент 5'
+  imageUrl: https://cdn.nadeko.bot/animu/Douluo_Dalu_Xiaowu_Juebie.jpg
+- word: 'Необъятный океан'
+  imageUrl: https://cdn.nadeko.bot/animu/Grand_Blue.jpg
+- word: 'Страна самоцветов'
+  imageUrl: https://cdn.nadeko.bot/animu/Houseki_no_Kuni_TV.jpg
+- word: 'Охотник х Охотник (2011)'
+  imageUrl: https://cdn.nadeko.bot/animu/Hunter_x_Hunter.jpg
+- word: 'Госпожа Кагуя: в любви как на войне'
+  imageUrl: https://cdn.nadeko.bot/animu/Kaguya-sama_wa_Kokurasetai_Tensai-tachi_no_Renai_Zunousen.jpg
+- word: 'Баракамон'
+  imageUrl: https://cdn.nadeko.bot/animu/Barakamon.jpg
+- word: 'Истории ран. Часть 1: Железная кровь'
+  imageUrl: https://cdn.nadeko.bot/animu/Kizumonogatari_I_Tekketsu-hen.jpg
+- word: 'Реинкарнация безработного: История о приключениях в другом мире'
+  imageUrl: https://cdn.nadeko.bot/animu/Mushoku_Tensei_Isekai_Ittara_Honki_Dasu.jpg
+- word: 'Тетрадь дружбы Нацумэ 6: Спецвыпуски'
+  imageUrl: https://cdn.nadeko.bot/animu/Natsume_Yuujinchou_Roku_Specials.jpg
+- word: 'Вайолет Эвергарден: Вечность и призрак пера'
+  imageUrl: https://cdn.nadeko.bot/animu/Violet_Evergarden_Gaiden_Eien_to_Jidou_Shuki_Ningyou.jpg
+- word: 'Агент времени'
+  imageUrl: https://cdn.nadeko.bot/animu/Shiguang_Daili_Ren.jpg
+- word: 'О моём перерождении в слизь 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Tensei_shitara_Slime_Datta_Ken_2nd_Season.jpg
+- word: 'Невиданный цветок'
+  imageUrl: https://cdn.nadeko.bot/animu/Ano_Hi_Mita_Hana_no_Namae_wo_Bokutachi_wa_Mada_Shiranai..jpg
+- word: 'Ковбой Бибоп: Достучаться до небес'
+  imageUrl: https://cdn.nadeko.bot/animu/Cowboy_Bebop_Tengoku_no_Tobira.jpg
+- word: 'Навсикая из Долины ветров'
+  imageUrl: https://cdn.nadeko.bot/animu/Kaze_no_Tani_no_Nausica.jpg
+- word: 'Легенда о Ло Сяохэе'
+  imageUrl: https://cdn.nadeko.bot/animu/Luo_Xiao_Hei_Zhan_Ji_Movie.jpg
+- word: 'Бакуман 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Bakuman._2nd_Season.jpg
+- word: 'Паразит: Учение о жизни'
+  imageUrl: https://cdn.nadeko.bot/animu/Kiseijuu_Sei_no_Kakuritsu.jpg
+- word: 'Царство 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Kingdom_2nd_Season.jpg
+- word: 'Царство 3'
+  imageUrl: https://cdn.nadeko.bot/animu/Kingdom_3rd_Season.jpg
+- word: 'Девочка-волшебница Мадока Волшебный фильм 3: История восстания — Спецвыпуски'
+  imageUrl: https://cdn.nadeko.bot/animu/Mahou_Shoujo_MadokaMagica.jpg
+- word: 'Психопаспорт'
+  imageUrl: https://cdn.nadeko.bot/animu/Psycho-Pass.jpg
+- word: 'Дитя погоды'
+  imageUrl: https://cdn.nadeko.bot/animu/Tenki_no_Ko.jpg
+- word: 'Красавица-воин Сейлор Мун Супер Эс: Иллюзия чёрной дыры снов'
+  imageUrl: https://cdn.nadeko.bot/animu/Tian_Guan_Ci_Fu.jpg
+- word: 'Космический линкор Ямато 2199'
+  imageUrl: https://cdn.nadeko.bot/animu/Uchuu_Senkan_Yamato_2199.jpg
+- word: 'Волейбол!! К вершине'
+  imageUrl: https://cdn.nadeko.bot/animu/Haikyuu_To_the_Top.jpg
+- word: 'Истории монстров'
+  imageUrl: https://cdn.nadeko.bot/animu/Bakemonogatari.jpg
+- word: 'Дарованный'
+  imageUrl: https://cdn.nadeko.bot/animu/Given.jpg
+- word: 'В лес, где мерцают светлячки'
+  imageUrl: https://cdn.nadeko.bot/animu/Hotarubi_no_Mori_e.jpg
+- word: 'Истории мечей'
+  imageUrl: https://cdn.nadeko.bot/animu/Katanagatari.jpg
+- word: 'Тетрадь дружбы Нацумэ: Однажды зимним днём'
+  imageUrl: https://cdn.nadeko.bot/animu/Natsume_Yuujinchou_Itsuka_Yuki_no_Hi_ni.jpg
+- word: 'Один на вылет'
+  imageUrl: https://cdn.nadeko.bot/animu/One_Outs.jpg
+- word: 'Волчица и пряности 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Ookami_to_Koushinryou_II.jpg
+- word: 'Голубые небеса Ромео'
+  imageUrl: https://cdn.nadeko.bot/animu/Romeo_no_Aoi_Sora.jpg
+- word: 'Дети на холме'
+  imageUrl: https://cdn.nadeko.bot/animu/Sakamichi_no_Apollon.jpg
+- word: 'Этот глупый свин не понимает мечту девочки-зайки'
+  imageUrl: https://cdn.nadeko.bot/animu/Seishun_Buta_Yarou_wa_Bunny_Girl_Senpai_no_Yume_wo_Minai.jpg
+- word: 'Город, в котором меня нет'
+  imageUrl: https://cdn.nadeko.bot/animu/Boku_dake_ga_Inai_Machi.jpg
+- word: 'Евангелион 2.22: Ты не пройдёшь'
+  imageUrl: https://cdn.nadeko.bot/animu/Evangelion_2.0_You_Can_Not_Advance.jpg
+- word: 'Заклинательница зверей Эрин'
+  imageUrl: https://cdn.nadeko.bot/animu/Kemono_no_Souja_Erin.jpg
+- word: 'Созданный в Бездне: Блуждающие сумерки'
+  imageUrl: https://cdn.nadeko.bot/animu/Made_in_Abyss_Movie_2_Hourou_Suru_Tasogare.jpg
+- word: 'Мэйджор: Мировая серия'
+  imageUrl: https://cdn.nadeko.bot/animu/Major_World_Series.jpg
+- word: 'Одноклассник'
+  imageUrl: https://cdn.nadeko.bot/animu/Doukyuusei_Movie.jpg
+- word: 'Стеклянная маска: Любовь шпионки! У фиолетовых роз опасный запах?!'
+  imageUrl: https://cdn.nadeko.bot/animu/K-On_Movie.jpg
+- word: 'Тетрадь дружбы Нацумэ'
+  imageUrl: https://cdn.nadeko.bot/animu/Natsume_Yuujinchou.jpg
+- word: 'Тетрадь дружбы Нацумэ 5: Спецвыпуски'
+  imageUrl: https://cdn.nadeko.bot/animu/Natsume_Yuujinchou_Go_Specials.jpg
+- word: 'Убежище'
+  imageUrl: https://cdn.nadeko.bot/animu/Shelter.jpg
+- word: 'Из нового света'
+  imageUrl: https://cdn.nadeko.bot/animu/Shinsekai_yori.jpg
+- word: 'Белый ящик'
+  imageUrl: https://cdn.nadeko.bot/animu/Shirobako.jpg
+- word: 'Роза Версаля (2007)'
+  imageUrl: https://cdn.nadeko.bot/animu/Versailles_no_Bara.jpg
+- word: 'Евангелион нового поколения'
+  imageUrl: https://cdn.nadeko.bot/animu/Neon_Genesis_Evangelion.jpg
+- word: 'Доктор Стоун'
+  imageUrl: https://cdn.nadeko.bot/animu/Dr._Stone.jpg
+- word: 'Судьба/Начало'
+  imageUrl: https://cdn.nadeko.bot/animu/FateZero.jpg
+- word: 'Великий притворщик'
+  imageUrl: https://cdn.nadeko.bot/animu/Great_Pretender.jpg
+- word: 'Путешествие Кино: Прекрасный мир'
+  imageUrl: https://cdn.nadeko.bot/animu/Kino_no_Tabi_The_Beautiful_World.jpg
+- word: 'Баскетбол Куроко 3'
+  imageUrl: https://cdn.nadeko.bot/animu/Kuroko_no_Basket_3rd_Season.jpg
+- word: 'Ученик чудовища'
+  imageUrl: https://cdn.nadeko.bot/animu/Bakemono_no_Ko.jpg
+- word: 'Бек'
+  imageUrl: https://cdn.nadeko.bot/animu/Beck.jpg
+- word: 'Путь аса 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Diamond_no_Ace_Second_Season.jpg
+- word: 'Нодамэ Кантабиле'
+  imageUrl: https://cdn.nadeko.bot/animu/Nodame_Cantabile.jpg
+- word: 'Бродяга Кэнсин'
+  imageUrl: https://cdn.nadeko.bot/animu/Rurouni_Kenshin_Meiji_Kenkaku_Romantan.jpg
+- word: 'Хроника крыльев: Откровения Токио'
+  imageUrl: https://cdn.nadeko.bot/animu/Tsubasa_Tokyo_Revelations.jpg
+- word: 'Вайолет Эвергарден: День, когда ты поймёшь, что я люблю тебя, обязательно наступит'
+  imageUrl: https://cdn.nadeko.bot/animu/Violet_Evergarden_Kitto_Ai_wo_Shiru_Hi_ga_Kuru_no_Darou.jpg
+- word: 'Странники'
+  imageUrl: https://cdn.nadeko.bot/animu/Planetes.jpg
+- word: 'Меч чужака'
+  imageUrl: https://cdn.nadeko.bot/animu/Stranger_Mukou_Hadan.jpg
+- word: 'Патриотизм Мориарти 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Yuukoku_no_Moriarty_2nd_Season.jpg
+- word: 'Серебряная ложка 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Gin_no_Saji_2nd_Season.jpg
+- word: 'Звучи, эуфониум! 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Hibike_Euphonium_2.jpg
+- word: 'Инициал Ди: Стадия первая'
+  imageUrl: https://cdn.nadeko.bot/animu/Initial_D_First_Stage.jpg
+- word: 'Я кричу о своей жажде'
+  imageUrl: https://cdn.nadeko.bot/animu/Kawaki_wo_Ameku.jpg
+- word: 'Призрак в доспехах'
+  imageUrl: https://cdn.nadeko.bot/animu/Koukaku_Kidoutai.jpg
+- word: 'Красная черта'
+  imageUrl: https://cdn.nadeko.bot/animu/Redline.jpg
+- word: 'Небесный замок Лапута'
+  imageUrl: https://cdn.nadeko.bot/animu/Tenkuu_no_Shiro_Laputa.jpg
+- word: 'Однажды в Токио'
+  imageUrl: https://cdn.nadeko.bot/animu/Tokyo_Godfathers.jpg
+- word: 'Мой сосед Тоторо'
+  imageUrl: https://cdn.nadeko.bot/animu/Tonari_no_Totoro.jpg
+- word: 'Нет игры — нет жизни: Начало'
+  imageUrl: https://cdn.nadeko.bot/animu/No_Game_No_Life_Zero.jpg
+- word: 'Мегалобокс 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Nomad_Megalo_Box_2.jpg
+- word: 'Аватар короля: Специальные выпуски'
+  imageUrl: https://cdn.nadeko.bot/animu/Quanzhi_Gaoshou_Specials.jpg
+- word: 'Завтрашний Джо'
+  imageUrl: https://cdn.nadeko.bot/animu/Ashita_no_Joe.jpg
+- word: 'Боевой континент 6'
+  imageUrl: https://cdn.nadeko.bot/animu/Douluo_Dalu_Xingdou_Xian_Ji_Pian.jpg
+- word: 'Кайдзи'
+  imageUrl: https://cdn.nadeko.bot/animu/Gyakkyou_Burai_Kaiji_Ultimate_Survivor.jpg
+- word: 'Первый шаг: Путь чемпиона'
+  imageUrl: https://cdn.nadeko.bot/animu/Hajime_no_Ippo_Champion_Road.jpg
+- word: 'Охотник х Охотник: Остров Жадности — Финал'
+  imageUrl: https://cdn.nadeko.bot/animu/Hunter_x_Hunter_Greed_Island_Final.jpg
+- word: 'Актриса тысячелетия'
+  imageUrl: https://cdn.nadeko.bot/animu/Sennen_Joyuu.jpg
+- word: 'Останься со мной, Дораэмон! 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Stand_By_Me_Doraemon_2.jpg
+- word: 'Лагерь на свежем воздухе'
+  imageUrl: https://cdn.nadeko.bot/animu/Yuru_Camp.jpg
+- word: 'Нодамэ Кантабиле: Финал'
+  imageUrl: https://cdn.nadeko.bot/animu/Nodame_Cantabile_Finale.jpg
+- word: 'Волчица и пряности'
+  imageUrl: https://cdn.nadeko.bot/animu/Ookami_to_Koushinryou.jpg
+- word: 'Космический Денди 2'
+  imageUrl: https://cdn.nadeko.bot/animu/SpaceDandy_2nd_Season.jpg
+- word: 'Военная хроника маленькой девочки. Фильм'
+  imageUrl: https://cdn.nadeko.bot/animu/Youjo_Senki_Movie.jpg
+- word: 'Моя геройская академия 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Boku_no_Hero_Academia_2nd_Season.jpg
+- word: 'Повседневная жизнь старшеклассников'
+  imageUrl: https://cdn.nadeko.bot/animu/Danshi_Koukousei_no_Nichijou.jpg
+- word: 'Баскетбол Куроко 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Kuroko_no_Basket_2nd_Season.jpg
+- word: 'Маги: Королевство магии'
+  imageUrl: https://cdn.nadeko.bot/animu/Magi_The_Kingdom_of_Magic.jpg
+- word: 'Боевой континент 7'
+  imageUrl: https://cdn.nadeko.bot/animu/Douluo_Dalu_Hanhai_Qian_Kun.jpg
+- word: 'Кайдзи 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Gyakkyou_Burai_Kaiji_Hakairoku-hen.jpg
+- word: 'Мёд и клевер 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Hachimitsu_to_Clover_II.jpg
+- word: 'Хори-сан и Миямура-кун'
+  imageUrl: https://cdn.nadeko.bot/animu/Horimiya.jpg
+- word: 'Тёмный дворецкий: Глава об Атлантике'
+  imageUrl: https://cdn.nadeko.bot/animu/Kuroshitsuji_Movie_Book_of_the_Atlantic.jpg
+- word: 'Деревенская глубинка: Каникулы'
+  imageUrl: https://cdn.nadeko.bot/animu/Non_Non_Biyori_Movie_Vacation.jpg
+- word: 'Седьмой киллер 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Wu_Liuqi_Zhi_Zui_Qiang_Fa_Xing_Shi.jpg
+- word: 'Как и ожидалось, моя школьная романтическая жизнь не удалась 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru._Zoku.jpg
+- word: 'Повар-боец Сома'
+  imageUrl: https://cdn.nadeko.bot/animu/Shokugeki_no_Souma.jpg
+- word: 'Скет Данс'
+  imageUrl: https://cdn.nadeko.bot/animu/SKET_Dance.jpg
+- word: 'Седьмой киллер 3'
+  imageUrl: https://cdn.nadeko.bot/animu/Wu_Liuqi_Zhi_Xuanwu_Guo_Pian.jpg
+- word: 'Триплексоголик: Продолжение'
+  imageUrl: https://cdn.nadeko.bot/animu/xxxHOLiC_Kei.jpg
+- word: 'Инициал Ди: Финальная стадия'
+  imageUrl: https://cdn.nadeko.bot/animu/Initial_D_Final_Stage.jpg
+- word: 'Путь аса: Акт 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Diamond_no_Ace_Act_II.jpg
+- word: 'Первый шаг: Машиба против Кимуры'
+  imageUrl: https://cdn.nadeko.bot/animu/Hajime_no_Ippo_Mashiba_vs._Kimura.jpg
+- word: 'В этом уголке мира'
+  imageUrl: https://cdn.nadeko.bot/animu/Kono_Sekai_no_Katasumi_ni.jpg
+- word: 'Ведьмина служба доставки'
+  imageUrl: https://cdn.nadeko.bot/animu/Majo_no_Takkyuubin.jpg
+- word: 'Шёпот сердца'
+  imageUrl: https://cdn.nadeko.bot/animu/Mimi_wo_Sumaseba.jpg
+- word: 'Триган'
+  imageUrl: https://cdn.nadeko.bot/animu/Trigun.jpg
+- word: 'Повторная жизнь: Заключительная глава'
+  imageUrl: https://cdn.nadeko.bot/animu/ReLIFE_Kanketsu-hen.jpg
+- word: 'Некий научный Рейлган T'
+  imageUrl: https://cdn.nadeko.bot/animu/Toaru_Kagaku_no_Railgun_T.jpg
+- word: 'Триплексоголик: Клетка'
+  imageUrl: https://cdn.nadeko.bot/animu/xxxHOLiC_Rou.jpg
+- word: 'Весенняя ночь коротка'
+  imageUrl: https://cdn.nadeko.bot/animu/Yoru_wa_Mijikashi_Arukeyo_Otome.jpg
+- word: 'Бакуман 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Bakuman..jpg
+- word: 'Сакура — собирательница карт: Запечатанная карта'
+  imageUrl: https://cdn.nadeko.bot/animu/Cardcaptor_Sakura_Movie_2_Fuuin_Sareta_Card.jpg
+- word: 'Яркая Тихая'
+  imageUrl: https://cdn.nadeko.bot/animu/Chihayafuru.jpg
+- word: 'Боевой континент 4'
+  imageUrl: https://cdn.nadeko.bot/animu/Douluo_Dalu_Qian_Hua_Xi_Jin.jpg
+- word: 'Легенда о героях Галактики: Новый тезис. Межзвёздная война — Часть 3'
+  imageUrl: https://cdn.nadeko.bot/animu/Ginga_Eiyuu_Densetsu_Die_Neue_These_-_Seiran_3.jpg
+- word: 'Сказание о принцессе Кагуя'
+  imageUrl: https://cdn.nadeko.bot/animu/Kaguya-hime_no_Monogatari.jpg
+- word: 'Маленькие проказники! Ещё раз'
+  imageUrl: https://cdn.nadeko.bot/animu/Little_Busters_Refrain.jpg
+- word: 'Дороро и Хяккимару'
+  imageUrl: https://cdn.nadeko.bot/animu/Dororo.jpg
+- word: 'Доктор Стоун: Каменные войны'
+  imageUrl: https://cdn.nadeko.bot/animu/Dr._Stone_Stone_Wars.jpg
+- word: 'Судьба/Ночь схватки: Бесконечный мир клинков'
+  imageUrl: https://cdn.nadeko.bot/animu/Fatestay_night_Unlimited_Blade_Works.jpg
+- word: 'Девушки и танки'
+  imageUrl: https://cdn.nadeko.bot/animu/Girls__Panzer_Movie.jpg
+- word: 'Золотое божество 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Golden_Kamuy_2nd_Season.jpg
+- word: 'Когда плачут цикады: Разгадки'
+  imageUrl: https://cdn.nadeko.bot/animu/Higurashi_no_Naku_Koro_ni_Kai.jpg
+- word: 'Инуяся: Последний акт'
+  imageUrl: https://cdn.nadeko.bot/animu/InuYasha_Kanketsu-hen.jpg
+- word: 'Ох уж этот экстрасенс Сайки Кусуо! Финал'
+  imageUrl: https://cdn.nadeko.bot/animu/Saiki_Kusuo_no_-nan_Kanketsu-hen.jpg
+- word: 'Ван-Пис: Бегство'
+  imageUrl: https://cdn.nadeko.bot/animu/One_Piece_Movie_14_Stampede.jpg
+- word: 'Ван-Пис: Эпизод Мерри — История об ещё одном накаме'
+  imageUrl: https://cdn.nadeko.bot/animu/One_Piece_Episode_of_Merry_-_Mou_Hitori_no_Nakama_no_Monogatari.jpg
+- word: 'Юная революционерка Утэна'
+  imageUrl: https://cdn.nadeko.bot/animu/Shoujo_Kakumei_Utena.jpg
+- word: 'Сквозь бальный зал'
+  imageUrl: https://cdn.nadeko.bot/animu/Ballroom_e_Youkoso.jpg
+- word: 'Берсерк: Золотой Век 3 — Сошествие'
+  imageUrl: https://cdn.nadeko.bot/animu/Berserk_Ougon_Jidai-hen_III_-_Kourin.jpg
+- word: 'Великий из бродячих псов 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Bungou_Stray_Dogs_2nd_Season.jpg
+- word: 'Боевой континент 8'
+  imageUrl: https://cdn.nadeko.bot/animu/Douluo_Dalu_Haishen_Zhi_Guang.jpg
+- word: 'Корзинка фруктов'
+  imageUrl: https://cdn.nadeko.bot/animu/Fruits_Basket_1st_Season.jpg
+- word: 'Охотник х Охотник: Остров Жадности'
+  imageUrl: https://cdn.nadeko.bot/animu/Hunter_x_Hunter_Greed_Island.jpg
+- word: 'Лиз и синяя птица'
+  imageUrl: https://cdn.nadeko.bot/animu/Liz_to_Aoi_Tori.jpg
+- word: 'Ария: Природа'
+  imageUrl: https://cdn.nadeko.bot/animu/Aria_the_Natural.jpg
+- word: 'Давайте сыграем'
+  imageUrl: https://cdn.nadeko.bot/animu/Asobi_Asobase.jpg
+- word: 'Пираты «Чёрной лагуны»: Второй залп'
+  imageUrl: https://cdn.nadeko.bot/animu/Black_Lagoon_The_Second_Barrage.jpg
+- word: 'Великий из бродячих псов 3'
+  imageUrl: https://cdn.nadeko.bot/animu/Bungou_Stray_Dogs_3rd_Season.jpg
+- word: 'Смертельный парад'
+  imageUrl: https://cdn.nadeko.bot/animu/Death_Parade.jpg
+- word: 'Приключения Дигимонов: Последняя эволюция'
+  imageUrl: https://cdn.nadeko.bot/animu/Digimon_Adventure_Last_Evolution_Kizuna.jpg
+- word: 'Праздник кукол'
+  imageUrl: https://cdn.nadeko.bot/animu/Hinamatsuri_TV.jpg
+- word: 'По ту сторону границы: Я буду рядом — Будущее'
+  imageUrl: https://cdn.nadeko.bot/animu/Kyoukai_no_Kanata_Movie_2_Ill_Be_Here_-_Mirai-hen.jpg
+- word: 'Доходный дом Иккоку'
+  imageUrl: https://cdn.nadeko.bot/animu/Maison_Ikkoku.jpg
+- word: 'Наруто: Ураганные хроники'
+  imageUrl: https://cdn.nadeko.bot/animu/Naruto_Shippuuden.jpg
+- word: 'Деревенская глубинка 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Non_Non_Biyori_Repeat.jpg
+- word: 'Бездомный бог: Арагото'
+  imageUrl: https://cdn.nadeko.bot/animu/Noragami_Aragoto.jpg
+- word: 'Клуб свиданий старшей школы Оран'
+  imageUrl: https://cdn.nadeko.bot/animu/Ouran_Koukou_Host_Club.jpg
+- word: 'Песня боевых принцесс: Мехасимфония 5'
+  imageUrl: https://cdn.nadeko.bot/animu/Senki_Zesshou_Symphogear_XV.jpg
+- word: 'Девушки в последнем путешествии'
+  imageUrl: https://cdn.nadeko.bot/animu/Shoujo_Shuumatsu_Ryokou.jpg
+- word: 'Торадора!'
+  imageUrl: https://cdn.nadeko.bot/animu/Toradora.jpg
+- word: 'Работа!! 3: Лорд Таканаси'
+  imageUrl: https://cdn.nadeko.bot/animu/Working_Lord_of_the_Takanashi.jpg
+- word: 'Моя геройская академия 3'
+  imageUrl: https://cdn.nadeko.bot/animu/Boku_no_Hero_Academia_3rd_Season.jpg
+- word: 'Боевой континент 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Douluo_Dalu_Jingying_Sai.jpg
+- word: 'Пять невест 2'
+  imageUrl: https://cdn.nadeko.bot/animu/5-toubun_no_Hanayome_.jpg
+- word: 'Акира'
+  imageUrl: https://cdn.nadeko.bot/animu/Akira.jpg
+- word: 'Граф Монте-Кристо'
+  imageUrl: https://cdn.nadeko.bot/animu/Gankutsuou.jpg
+- word: 'Очень приятно, Бог 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Kamisama_Hajimemashita.jpg
+- word: 'Люпен 3: Часть 5'
+  imageUrl: https://cdn.nadeko.bot/animu/Lupin_III_Part_5.jpg
+- word: 'Магистр дьявольского культа: Чиби'
+  imageUrl: https://cdn.nadeko.bot/animu/Mo_Dao_Zu_Shi_Q.jpg
+- word: 'Истории подделок'
+  imageUrl: https://cdn.nadeko.bot/animu/Nisemonogatari.jpg
+- word: 'Аватар короля. Фильм'
+  imageUrl: https://cdn.nadeko.bot/animu/Quanzhi_Gaoshou_Zhi_Dianfeng_Rongyao.jpg
+- word: 'Девочка, покорившая время'
+  imageUrl: https://cdn.nadeko.bot/animu/Toki_wo_Kakeru_Shoujo.jpg
+- word: 'Нет игры — нет жизни'
+  imageUrl: https://cdn.nadeko.bot/animu/No_Game_No_Life.jpg
+- word: 'Нодамэ Кантабиле: Парижская глава'
+  imageUrl: https://cdn.nadeko.bot/animu/Nodame_Cantabile_Paris-hen.jpg
+- word: 'Кошечка из Сакурасо'
+  imageUrl: https://cdn.nadeko.bot/animu/Sakura-sou_no_Pet_na_Kanojo.jpg
+- word: 'Хранитель священного духа'
+  imageUrl: https://cdn.nadeko.bot/animu/Seirei_no_Moribito.jpg
+- word: 'Повар-боец Сома: Второе блюдо'
+  imageUrl: https://cdn.nadeko.bot/animu/Shokugeki_no_Souma_Ni_no_Sara.jpg
+- word: 'Сакура — собирательница карт'
+  imageUrl: https://cdn.nadeko.bot/animu/Cardcaptor_Sakura.jpg
+- word: 'Детектив Конан'
+  imageUrl: https://cdn.nadeko.bot/animu/Detective_Conan.jpg
+- word: 'Дюрарара!!'
+  imageUrl: https://cdn.nadeko.bot/animu/Durarara.jpg
+- word: 'Руки прочь от кинокружка!'
+  imageUrl: https://cdn.nadeko.bot/animu/Eizouken_ni_wa_Te_wo_Dasu_na.jpg
+- word: 'Судьба/Великий карнавал'
+  imageUrl: https://cdn.nadeko.bot/animu/FateGrand_Carnival.jpg
+- word: 'Кайба'
+  imageUrl: https://cdn.nadeko.bot/animu/Kaiba.jpg
+- word: 'Репетитор-киллер Реборн!'
+  imageUrl: https://cdn.nadeko.bot/animu/Katekyo_Hitman_Reborn.jpg
+- word: 'Красавица-воин Сейлор Мун Супер Эс: Иллюзия чёрной дыры снов'
+  imageUrl: https://cdn.nadeko.bot/animu/Mahou_Shoujo_Lyrical_Nanoha_The_Movie_2nd_As.jpg
+- word: 'Драконий жемчуг Зет'
+  imageUrl: https://cdn.nadeko.bot/animu/Dragon_Ball_Z.jpg
+- word: 'Стальной алхимик'
+  imageUrl: https://cdn.nadeko.bot/animu/Fullmetal_Alchemist.jpg
+- word: 'Легенда о героях Галактики: Сто миллионов звёзд, сто миллионов светил'
+  imageUrl: https://cdn.nadeko.bot/animu/Ginga_Eiyuu_Densetsu_Gaiden.jpg
+- word: 'Дарованный. Фильм'
+  imageUrl: https://cdn.nadeko.bot/animu/Given_Movie.jpg
+- word: 'Кэйон!!'
+  imageUrl: https://cdn.nadeko.bot/animu/K-On.jpg
+- word: 'Люпен 3: Замок Калиостро'
+  imageUrl: https://cdn.nadeko.bot/animu/Lupin_III_Cagliostro_no_Shiro.jpg
+- word: 'Ван-Пис: Жестокий мир'
+  imageUrl: https://cdn.nadeko.bot/animu/One_Piece_Film_Strong_World.jpg
+- word: 'Муми-тролли'
+  imageUrl: https://cdn.nadeko.bot/animu/Tanoshii_Muumin_Ikka.jpg
+- word: 'Ван-Пис: Эпизод Нами — Слёзы навигатора и узы друзей'
+  imageUrl: https://cdn.nadeko.bot/animu/One_Piece_Episode_of_Nami_-_Koukaishi_no_Namida_to_Nakama_no_Kizuna.jpg
+- word: 'Принцесса Тютю'
+  imageUrl: https://cdn.nadeko.bot/animu/Princess_Tutu.jpg
+- word: 'Токийские мстители'
+  imageUrl: https://cdn.nadeko.bot/animu/Tokyo_Revengers.jpg
+- word: 'Прекрасна, как Луна'
+  imageUrl: https://cdn.nadeko.bot/animu/Tsuki_ga_Kirei.jpg
+- word: 'Чудачества любви не помеха! Положись на меня'
+  imageUrl: https://cdn.nadeko.bot/animu/Chuunibyou_demo_Koi_ga_Shitai_Movie_Take_On_Me.jpg
+- word: 'Боевой континент 3'
+  imageUrl: https://cdn.nadeko.bot/animu/Douluo_Dalu_Hao_Tian_Yang_Wei.jpg
+- word: 'Власть книжного червя 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Honzuki_no_Gekokujou_Shisho_ni_Naru_Tame_ni_wa_Shudan_wo_Erandeiraremasen_2nd_Season.jpg
+- word: 'Инициал Ди: Стадия четвёртая'
+  imageUrl: https://cdn.nadeko.bot/animu/Initial_D_Fourth_Stage.jpg
+- word: 'Интерстелла5555: и5тория 5екретной 5олнечной 5истемы'
+  imageUrl: https://cdn.nadeko.bot/animu/Interstella5555_The_5tory_of_The_5ecret_5tar_5ystem.jpg
+- word: 'Этот замечательный мир!'
+  imageUrl: https://cdn.nadeko.bot/animu/Kono_Subarashii_Sekai_ni_Shukufuku_wo.jpg
+- word: 'Созданный в Бездне: Начало путешествия'
+  imageUrl: https://cdn.nadeko.bot/animu/Made_in_Abyss_Movie_1_Tabidachi_no_Yoake.jpg
+- word: 'Шумиха! Спецвыпуски'
+  imageUrl: https://cdn.nadeko.bot/animu/Baccano_Specials.jpg
+- word: 'Детройт, город металла'
+  imageUrl: https://cdn.nadeko.bot/animu/Detroit_Metal_City.jpg
+- word: 'Хёка'
+  imageUrl: https://cdn.nadeko.bot/animu/Hyouka.jpg
+- word: 'Астра, затерянная в космосе'
+  imageUrl: https://cdn.nadeko.bot/animu/Kanata_no_Astra.jpg
+- word: 'Призрак в доспехах: Синдром одиночки — Сообщество стабильной государственности'
+  imageUrl: https://cdn.nadeko.bot/animu/Koukaku_Kidoutai_Stand_Alone_Complex_-_Solid_State_Society.jpg
+- word: 'Принцесса-медуза'
+  imageUrl: https://cdn.nadeko.bot/animu/Kuragehime.jpg
+- word: 'Невеста чародея: В ожидании путеводной звезды'
+  imageUrl: https://cdn.nadeko.bot/animu/Mahoutsukai_no_Yome_Hoshi_Matsu_Hito.jpg
+- word: 'Мобильный воин Гандам 00'
+  imageUrl: https://cdn.nadeko.bot/animu/Mobile_Suit_Gundam_00.jpg
+- word: 'История одержимости'
+  imageUrl: https://cdn.nadeko.bot/animu/Tsukimonogatari.jpg
+- word: 'Экзотическая семейка 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Uchouten_Kazoku_2.jpg
+- word: 'Пуй-пуй Молькар'
+  imageUrl: https://cdn.nadeko.bot/animu/Pui_Pui_Molcar.jpg
+- word: 'Ох уж этот экстрасенс Сайки Кусуо! Начало'
+  imageUrl: https://cdn.nadeko.bot/animu/Saiki_Kusuo_no_-nan_-shidou-hen.jpg
+- word: 'Хроника крыльев: Весенний гром'
+  imageUrl: https://cdn.nadeko.bot/animu/Tsubasa_Shunraiki.jpg
+- word: 'Эхо террора'
+  imageUrl: https://cdn.nadeko.bot/animu/Zankyou_no_Terror.jpg
+- word: 'Ангельские ритмы!'
+  imageUrl: https://cdn.nadeko.bot/animu/Angel_Beats.jpg
+- word: 'Легенда о героях Галактики: Увертюра к новой войне'
+  imageUrl: https://cdn.nadeko.bot/animu/Ginga_Eiyuu_Densetsu_Arata_Naru_Tatakai_no_Overture.jpg
+- word: 'Семёрка идолов 2'
+  imageUrl: https://cdn.nadeko.bot/animu/IDOLiSH7_Second_Beat.jpg
+- word: 'Инициал Ди: Стадия вторая'
+  imageUrl: https://cdn.nadeko.bot/animu/Initial_D_Second_Stage.jpg
+- word: 'Баскетбол Куроко'
+  imageUrl: https://cdn.nadeko.bot/animu/Kuroko_no_Basket.jpg
+- word: 'Класс убийц'
+  imageUrl: https://cdn.nadeko.bot/animu/Ansatsu_Kyoushitsu.jpg
+- word: 'Путь аса'
+  imageUrl: https://cdn.nadeko.bot/animu/Diamond_no_Ace.jpg
+- word: 'Драконий жемчуг: Супер — Броли'
+  imageUrl: https://cdn.nadeko.bot/animu/Dragon_Ball_Super_Broly.jpg
+- word: 'Волейбол!! Битва концепций'
+  imageUrl: https://cdn.nadeko.bot/animu/Haikyuu_Movie_4_Concept_no_Tatakai.jpg
+- word: 'Озорная Такаги 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Karakai_Jouzu_no_Takagi-san_2.jpg
+- word: 'Ветер крепчает'
+  imageUrl: https://cdn.nadeko.bot/animu/Kaze_Tachinu.jpg
+- word: 'Не сдавайся!'
+  imageUrl: https://cdn.nadeko.bot/animu/Skip_Beat.jpg
+- word: 'Рыцари Зодиака: Утерянный холст — Владыка Преисподней. Глава вторая'
+  imageUrl: https://cdn.nadeko.bot/animu/Saint_Seiya_The_Lost_Canvas_-_Meiou_Shinwa_2.jpg
+- word: 'Тамаюра: Заключительная глава — Завтрашний день'
+  imageUrl: https://cdn.nadeko.bot/animu/Tamayura_Sotsugyou_Shashin_Part_4_-_Ashita.jpg
+- word: 'Приоритет чудо-яйца'
+  imageUrl: https://cdn.nadeko.bot/animu/Wonder_Egg_Priority.jpg
+- word: 'Импульс мира 2'
+  imageUrl: https://cdn.nadeko.bot/animu/World_Trigger_2nd_Season.jpg
+- word: 'Трусливый велосипедист: Большая дорога'
+  imageUrl: https://cdn.nadeko.bot/animu/Yowamushi_Pedal_Grande_Road.jpg
+- word: 'Темнее чёрного'
+  imageUrl: https://cdn.nadeko.bot/animu/Darker_than_Black_Kuro_no_Keiyakusha.jpg
+- word: 'Евангелион 3.0+1.01: Как-то раз'
+  imageUrl: https://cdn.nadeko.bot/animu/Evangelion_3.01.0_Thrice_Upon_a_Time.jpg
+- word: 'Серебряная ложка'
+  imageUrl: https://cdn.nadeko.bot/animu/Gin_no_Saji.jpg
+- word: 'Первый шаг: Специальный эпизод'
+  imageUrl: https://cdn.nadeko.bot/animu/Hajime_no_Ippo_Boxer_no_Kobushi.jpg
+- word: 'Хикару и Го'
+  imageUrl: https://cdn.nadeko.bot/animu/Hikaru_no_Go.jpg
+- word: 'Невероятное приключение ДжоДжо: Рыцари звёздной пыли'
+  imageUrl: https://cdn.nadeko.bot/animu/JoJo_no_Kimyou_na_Bouken_Part_3_Stardust_Crusaders.jpg
+- word: 'Очень приятно, Бог: Будьте счастливы'
+  imageUrl: https://cdn.nadeko.bot/animu/Kamisama_Hajimemashita_Kamisama_Shiawase_ni_Naru.jpg
+- word: 'Баскетбол Куроко: Это лучший подарок!'
+  imageUrl: https://cdn.nadeko.bot/animu/Kuroko_no_Basket_Saikou_no_Present_Desu.jpg
+- word: 'Тёмный дворецкий: Глава о цирке'
+  imageUrl: https://cdn.nadeko.bot/animu/Kuroshitsuji_Book_of_Circus.jpg
+- word: 'Йона на заре OVA'
+  imageUrl: https://cdn.nadeko.bot/animu/Akatsuki_no_Yona_OVA.jpg
+- word: 'Дорохедоро'
+  imageUrl: https://cdn.nadeko.bot/animu/Dorohedoro.jpg
+- word: 'Дюрарара!! 2: Финал'
+  imageUrl: https://cdn.nadeko.bot/animu/Durararax2_Ketsu.jpg
+- word: 'Легенда о героях Галактики: Новый тезис. Межзвёздная война — Часть 2'
+  imageUrl: https://cdn.nadeko.bot/animu/Ginga_Eiyuu_Densetsu_Die_Neue_These_-_Seiran_2.jpg
+- word: 'Готика'
+  imageUrl: https://cdn.nadeko.bot/animu/Gosick.jpg
+- word: 'Наброски Хидамари: Выпускной Саэ и Хиро'
+  imageUrl: https://cdn.nadeko.bot/animu/Hidamari_Sketch_Sae_Hiro_Sotsugyou-hen.jpg
+- word: 'Призрак в доспехах: Синдром одиночки — Смеющийся человек'
+  imageUrl: https://cdn.nadeko.bot/animu/Koukaku_Kidoutai_Stand_Alone_Complex_-_The_Laughing_Man.jpg
+- word: 'Тёмный дворецкий: Глава об убийстве'
+  imageUrl: https://cdn.nadeko.bot/animu/Kuroshitsuji_Book_of_Murder.jpg
+- word: 'Конан — мальчик из будущего'
+  imageUrl: https://cdn.nadeko.bot/animu/Mirai_Shounen_Conan.jpg
+- word: 'Воспоминания о Марни'
+  imageUrl: https://cdn.nadeko.bot/animu/Omoide_no_Marnie.jpg
+- word: 'Сильнейший в истории ученик Кэнъити'
+  imageUrl: https://cdn.nadeko.bot/animu/Shijou_Saikyou_no_Deshi_Kenichi.jpg
+- word: 'Повар-боец Сома: Третье блюдо'
+  imageUrl: https://cdn.nadeko.bot/animu/Shokugeki_no_Souma_San_no_Sara.jpg
+- word: 'О моём перерождении в слизь'
+  imageUrl: https://cdn.nadeko.bot/animu/Tensei_shitara_Slime_Datta_Ken.jpg
+- word: 'Принц Света: Легенда о Рамаяне'
+  imageUrl: https://cdn.nadeko.bot/animu/Ramayana_The_Legend_of_Prince_Rama.jpg
+- word: 'Летние войны'
+  imageUrl: https://cdn.nadeko.bot/animu/Summer_Wars.jpg
+- word: 'Король храбрецов Гаогайгар'
+  imageUrl: https://cdn.nadeko.bot/animu/Yuusha-Ou_GaoGaiGar_Final.jpg
+- word: 'Кибер-виток'
+  imageUrl: https://cdn.nadeko.bot/animu/Dennou_Coil.jpg
+- word: 'Легенда о героях Галактики: Спиральный лабиринт'
+  imageUrl: https://cdn.nadeko.bot/animu/Ginga_Eiyuu_Densetsu_Gaiden_1999.jpg
+- word: 'Стеклянная маска (2005)'
+  imageUrl: https://cdn.nadeko.bot/animu/Glass_no_Kamen_2005.jpg
+- word: 'Убей или умри'
+  imageUrl: https://cdn.nadeko.bot/animu/Kill_la_Kill.jpg
+- word: 'Эврика 7: Псалмы планет'
+  imageUrl: https://cdn.nadeko.bot/animu/Koukyoushihen_Eureka_Seven.jpg
